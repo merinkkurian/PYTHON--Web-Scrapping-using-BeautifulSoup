@@ -21,3 +21,10 @@ Any web scraping code you need to follow the basic steps:
 Here I used BeautifulSoup,Python package for parsing HTML and XML documents. It creates parse trees that is helpful to extract the data easily.
 URL Used:https://www.flipkart.com/search?q=Laptops&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&as-pos=1&as-type=HISTORY&as-backfill=on%27
 
+
+
+REFERENCES:
+
+https://medium.com/analytics-vidhya/web-scraping-with-python-beginner-to-advanced-10daaca021f3
+
+https://www.youtube.com/watch?v=HiOtQMcI5wg&t=164s
