@@ -9,9 +9,13 @@ When any web scraping code is run the request is sent to the URL that you have m
 Any web scraping code you need to follow the basic steps:
 
 -Find the URL(address) of web page you want to scrape
+
 -Inspect the page and find the data you want to extract
+
 -Write the logic for extracting the data
+
 -Store extracted data into structured form(E.g. Pandas DataFrame)
+
 
 
 Here I used BeautifulSoup,Python package for parsing HTML and XML documents. It creates parse trees that is helpful to extract the data easily.
