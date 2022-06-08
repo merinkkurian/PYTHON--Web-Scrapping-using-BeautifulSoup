@@ -25,6 +25,3 @@ URL Used:https://www.flipkart.com/search?q=Laptops&otracker=search&otracker1=sea
 
 REFERENCES:
 
-https://medium.com/analytics-vidhya/web-scraping-with-python-beginner-to-advanced-10daaca021f3
-
-https://www.youtube.com/watch?v=HiOtQMcI5wg&t=164s
